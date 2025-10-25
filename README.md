@@ -1,4 +1,4 @@
-# The-Last-Stand
+# The Last Stand
 5 days till The Last Stand...
  
 Server IP: <ip here>
