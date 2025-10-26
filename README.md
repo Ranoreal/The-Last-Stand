@@ -1,7 +1,7 @@
 # The Last Stand
 5 days till The Last Stand...
  
-Server IP: sales-tubes.as.joinmc.link
+Server IP: shewlzy.playit.gg
   
 
 Some Useful links:
